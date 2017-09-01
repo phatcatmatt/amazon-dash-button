@@ -1,5 +1,7 @@
 A python 3 script to detect an Amazon Dash Button press and send a text message containing an arrival time. Uses Google Maps distance matrix to calculate travel time between two locations and Twilio to send the text. Works with the newer Dash Button model JK29LP.
 
+#### Steps
+
 1. `pip3 install scapy-python3 googlemaps twilio`
 2. `touch keys.py`
 3. Add your API keys to keys.py like so:
