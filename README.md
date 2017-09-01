@@ -6,6 +6,7 @@ A python 3 script to detect an Amazon Dash Button press and send a text message 
 2. `touch keys.py`
 3. Add your API keys to keys.py like so:
 ```python
+mac_address = "xx:xx:xx:xx" # add the mac address of your dash button in lower case
 maps_key = 'XXXXX'
 twilio_keys = {
 'account' : 'XXXXX',
