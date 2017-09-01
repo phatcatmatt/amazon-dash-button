@@ -40,4 +40,4 @@ twilio_keys = {
 4. `python3 detect-button.py`
 5. Press the button!
 
-You'll likely need to run the script as root. You also might need to `apt-get install tcpdump`. On a Raspberry Pi I had to update some existing packages to fix some conflicts.
+You'll likely need to run the script as root. You also might need to `apt-get install tcpdump`. On my Raspberry Pi I had to update some existing packages to fix some conflicts, but that will vary.
