@@ -6,7 +6,7 @@ A python 3 script to detect an Amazon Dash Button press and send a text message 
 ```python
 maps_key = 'XXXXX'
 twilio_keys = {
-'account : 'XXXXX',
+'account' : 'XXXXX',
 'token' : 'XXXXX',
 'recipient' : '+12345678900', # recipient's phone number formatted like so
 'twilio_phone' : '+19876543210', # the phone number twilio gives you
