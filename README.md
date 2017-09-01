@@ -12,7 +12,7 @@ twilio_keys = {
 'twilio_phone' : '+19876543210', # the phone number twilio gives you
 }
 ``` 
-4. `python3 detect-button.py` (You'll likely need to run this as root)
+4. `python3 detect-button.py`
 5. Press the button!
 
 ##### Notes
